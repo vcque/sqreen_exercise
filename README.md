@@ -12,5 +12,5 @@ The class is then injected into $CATALINA_HOME/lib with an early alphabetical or
 
 Just run the docker image :
 ```
-sudo docker build -t sqreen_exercise . && sudo docker run sqreen_exercise`
+sudo docker build -t sqreen_exercise . && sudo docker run sqreen_exercise
 ```
